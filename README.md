@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I’m Abdikani Ahmed Abdi 👋</h1>
+
 <p align="center">
-  Software Developer • Computer Science Graduate • Academic Technical Professional<br/>
-  Mogadishu, Somalia 🇸🇴
+Software Developer • Computer Science Graduate • Cybersecurity Learner  
+Mogadishu, Somalia 🇸🇴
 </p>
 
 <p align="center">
@@ -18,84 +19,153 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I’m a software developer and Computer Science graduate focused on building **practical, secure, and maintainable** web systems—especially for **institutions, education, and real-world users**.
+I’m a **software developer and Computer Science graduate** with a growing focus on **secure systems, backend architecture, and cybersecurity practices**.
 
-My background combines hands-on development with academic technical support, allowing me to design systems with **structure, discipline, and long-term usability**.
+My experience spans **software development, academic technical support, and teaching**, which has given me a strong foundation in both **building systems and explaining technical concepts clearly**.
 
----
+I enjoy working on projects that combine:
 
-## 🏫 Experience
-
-- **Somali National University (Shabelle Campus)** — *Academic Technical Support & Assistant Lecturer*  
-  Supporting academic systems, technical operations, and learning activities.
-
-- Former **English and Computer Science Teacher**
-
-- Experience working across academic, administrative, and technology-focused environments.
+- clean software architecture
+- real-world usability
+- security-conscious development
 
 ---
 
-## 🎯 Technical Focus
+# 🏫 Professional Experience
 
-- Full-stack web development
-- Database-driven applications
-- Secure authentication & access control
-- Role-based system design (RBAC)
-- Academic & institutional software support
-- Clean, maintainable codebases
+**Somali National University — Shabelle Campus**  
+*Academic Technical Support & Assistant Lecturer*
+
+- Supporting academic systems and technical operations
+- Assisting students with technical and computing concepts
+- Maintaining system reliability in educational environments
+
+Previously:
+
+- English & Computer Science Teacher
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 📚 Mogadishu Public Library (Web System)
-Full-stack digital library management system (in progress), designed for institutional and educational use.  
-**Focus:** secure access, role management, real-world workflows, long-term maintainability.
+### 📚 Mogadishu Public Library System (In Progress)
+
+A full-stack web system designed for **digital library management**.
+
+Focus areas:
+
+- secure authentication
+- role-based access control (RBAC)
+- structured backend logic
+- real-world institutional workflows
+
+---
 
 ### ✈️ Travel Agency Management System
-Graduation project — web-based booking and customer management system.
+
+Graduation project built as a **web-based booking and customer management platform**.
+
+---
 
 ### 🌐 Personal Portfolio Website
-Built using **HTML, CSS, JavaScript, and React**.
 
-### 🧩 WordPress Platforms (Advanced)
-E-commerce and directory websites:
-- Macmacaan Store  
-- Casri Electronics  
+Built using:
+
+HTML • CSS • JavaScript • React
+
+---
+
+### 🧩 WordPress Platforms
+
+Advanced WordPress projects including:
+
+- Macmacaan Store
+- Casri Electronics
 - SomFind
 
 ---
 
-## 🛠️ Technical Skills
+# 🔐 Cybersecurity & Systems Learning
 
-**Languages:** JavaScript, Python, C#, SQL  
-**Web:** HTML, CSS, React, Next.js  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Linux  
-**CMS:** WordPress (Advanced)
+Alongside software development, I actively practice **cybersecurity labs and system-level skills**.
 
----
+Topics I explore:
 
-## 📌 Currently
+- Linux system usage
+- network enumeration
+- vulnerability exploitation
+- password cracking techniques
+- Python scripting for security tools
 
-- Building real-world web systems with strong backend logic and security
-- Improving authentication, authorization, and system architecture
-- Supporting academic technology environments
+Example labs include:
 
----
+- vulnerable machine exploitation
+- brute-force attacks using Hydra
+- password hash cracking using Hashcat
+- reconnaissance workflows
 
-## 🤝 Open To
-
-- Full-stack or backend developer roles
-- Institutional and education-focused software projects
-- Collaboration on secure, scalable web systems
+These exercises help me understand **how systems break — and how to build them more securely**.
 
 ---
 
-## 📫 Contact
+# 🛠️ Technical Skills
 
-- 🌐 Portfolio: https://abdikani-portfolio.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/abdikani-ahmed-abdi-06ba29184  
-- 📧 Email: Faantaastik10@gmail.com
+**Languages**
+
+JavaScript • Python • C# • SQL
+
+**Web Development**
+
+HTML • CSS • React • Next.js
+
+**Databases**
+
+MongoDB • MySQL
+
+**Tools**
+
+Git • GitHub • Linux • VS Code
+
+**CMS**
+
+WordPress (Advanced)
+
+---
+
+# 📚 Currently Learning
+
+- secure backend architecture
+- system authentication design
+- Linux system internals
+- penetration testing labs
+- Python scripting for automation and security
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abdikani-Ahmed0&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+</p>
+
+---
+
+# 🤝 Open To
+
+- Backend or full-stack development roles
+- Software projects for education and institutions
+- Collaboration on practical systems and tools
+
+---
+
+# 📫 Contact
+
+🌐 Portfolio: https://abdikani-portfolio.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/abdikani-ahmed-abdi-06ba29184  
+📧 Email: Faantaastik10@gmail.com
